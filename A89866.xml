@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A necessary abstract of laws relating to the militia reduced into a practical method. To which is added, instructions for exercising the trained bands.</title>
+            <title>Public General Acts . Militia</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 53KB of XML-encoded text transcribed from 52 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89866</idno><idno type="EEBO-CITATION">99897440</idno>
+  <idno type="VID">133195</idno>
+  <idno type="EEBO-PROQUEST">2240926039</idno>
+  
+            <idno type="STC">Wing N363A</idno>
+            <idno type="STC">ESTC R229747</idno>
+            <idno type="PROQUEST">99897440</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897440e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2504:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A necessary abstract of laws relating to the militia reduced into a practical method. To which is added, instructions for exercising the trained bands.</title>
+                  <title>Public General Acts . Militia</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[20], 47, [1], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Vincent in Cliffords-Inn-Lane in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Instructions for exercise of single companies, and troops or regiments." (caption title) begins new pagination and register.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+                  <note>Identified by ESTC as Wing (CD-ROM, 1996) E918B.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Militia --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133195:1"/>
+            <pb facs="tcp:133195:1"/>
+            <p>A Necessary ABSTRACT OF THE LAWS Relating to the MILITIA, Reduced into A Practical Method.</p>
+            <p>
+               <hi>To which is added,</hi> INSTRUCTIONS For Exercising the <hi>Trained Bands.</hi>
+            </p>
+            <p>
+               <hi>London;</hi> Printed for <hi>Robert Vincent</hi> in <hi>Cliffords-Inn-Lane</hi> in <hi>Fleet-street,</hi> 1691.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:133195:2"/>
+            <p>THis ABSTRACT may be Printed, </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>May</hi> 16, 1691.</date>
+               </dateline>
+               <signed>Hen. Pollexfen.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:133195:2"/>
+            <head>To his Grace, the most Noble Prince <hi>HENRY</hi> Duke of <hi>NORFOLKE,</hi> Earl Marshal of <hi>England,</hi> Knight of the most Noble Order of the <hi>Garter,</hi> and One of the Lords of Their Ma<g ref="char:EOLhyphen"/>jesties most Honourable Privy Council, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>May it please your Grace,</salute>
+            </opener>
+            <p>TO permit your Il<g ref="char:EOLhyphen"/>lustrious Name to be placed in the Front of this Abstract,
+<pb facs="tcp:133195:3"/>which is designed to no other end, but to shew, that the Militia (established by Acts of Parliament) may be useful in all the several Counties of this King<g ref="char:EOLhyphen"/>dom, as that part, (with<g ref="char:EOLhyphen"/>in your Graces more peculiar Province,) has appeared to be, at very short Warnings, in more than two or three Instances; which (without Flattery,) must be ascribed to
+<pb facs="tcp:133195:3"/>your Graces particular Directions and Perso<g ref="char:EOLhyphen"/>nal Views, no less than to the active Diligence of your Deputy Lieu<g ref="char:EOLhyphen"/>tenants. And when your Grace (in the late Reign) refused to put out those Deputy Lieu<g ref="char:EOLhyphen"/>tenants, who would not comply with the Questions and In<g ref="char:EOLhyphen"/>structions (sent at that time from the Court) or to give Deputations to Roman Catholicks,
+<pb facs="tcp:133195:4"/>and others (nomi<g ref="char:EOLhyphen"/>nated to your Grace.) It appeared (when those surprizing Or<g ref="char:EOLhyphen"/>ders were given for restoring such who had been on that ac<g ref="char:EOLhyphen"/>count put out of Com<g ref="char:EOLhyphen"/>mission,) that your Graces Deputy Lieu<g ref="char:EOLhyphen"/>tenants of <hi>Norfolke, Sur<g ref="char:EOLhyphen"/>rey, Berks,</hi> and <hi>Norwich,</hi> were the only De<g ref="char:EOLhyphen"/>puty Lieutenants who remain'd capable to act
+<pb facs="tcp:133195:4"/>without new Com<g ref="char:EOLhyphen"/>missions.</p>
+            <p>There is one thing more may be added, shewing your Graces Care to render the Train'd Bands, now under your Command, fit for Service; That soon after Their Ma<g ref="char:EOLhyphen"/>jesties happy access to the Throne, (when Occasion required,) your Grace gave in
+<pb facs="tcp:133195:5"/>your Lists, consisting of Eight Regiments, and Six Independent Companies, of Foot, and Eleven Troops of Horse (above 10000 Men compleat) inclu<g ref="char:EOLhyphen"/>ding the Borough of <hi>Southwark,</hi> that had ta<g ref="char:EOLhyphen"/>ken the Oaths appoin<g ref="char:EOLhyphen"/>ted by Act of Parlia<g ref="char:EOLhyphen"/>ment in the First Year of Their Majesties Reign: Whom, that GOD Almighty will
+<pb facs="tcp:133195:5"/>long Preserve, as also your Grace, with Health and Felicity, is the Prayer of one of</p>
+            <closer>
+               <signed>Your Graces <hi>Most Devoted and Obedient</hi> SERVANTS.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:133195:6"/>
+            <pb facs="tcp:133195:6"/>
+            <head>To the Deputy Lieutenants, and Commission Offi<g ref="char:EOLhyphen"/>cers of the Train'd Bands.</head>
+            <p>WHereas not long since great Endeavours had been used to render the Militia of this Kingdom useless; and an Account, of the Annual Charge every Coun<g ref="char:EOLhyphen"/>ty was lyable to by the Acts of Parliament, was de<g ref="char:EOLhyphen"/>manded, in order to the
+<pb facs="tcp:133195:7"/>keeping on Foot so many (more) Forces in con<g ref="char:EOLhyphen"/>stant Pay, as the said Expence would have de<g ref="char:EOLhyphen"/>frayed. To the end there<g ref="char:EOLhyphen"/>fore the said Militia may not seem so useless, this Method is compiled; in the doing whereof no new thing is offered, but only a placing of such Authori<g ref="char:EOLhyphen"/>ties and Directions, as are contained in the seve<g ref="char:EOLhyphen"/>ral Acts, under respective Heads, for the more ready charging of Estates, and
+<pb facs="tcp:133195:7"/>putting the whole in Ex<g ref="char:EOLhyphen"/>ecution, at such Times and Places as there may be Occasion, to charge E<g ref="char:EOLhyphen"/>states, impose Penalties, hear Complaints, qualifie Persons, and Train or Ex<g ref="char:EOLhyphen"/>ercise, when the Acts of Parliament, at large, may not be at hand; which is all that is designed by the publishing this <hi>Abstract.</hi> And it is presumed, that none will be Offended at the Annexing an Exercise of
+<pb facs="tcp:133195:8"/>Arms, which may be use<g ref="char:EOLhyphen"/>full, and be practised by the Trained Bands, with<g ref="char:EOLhyphen"/>out Offence to the Royal Army.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:133195:8"/>
+            <head>Advertisement.</head>
+            <p>BLank Deputations, Com<g ref="char:EOLhyphen"/>missions, Warrants to Levy and Collect the Week<g ref="char:EOLhyphen"/>ly Tax, or Trophy-money, and Receipts for the same; also several sorts of Blanks relating to Sheriffs and Justices of the Peace, and divers other sorts of Blanks of a general Con<g ref="char:EOLhyphen"/>cern; <hi>Are Printed for</hi> R. Vincent <hi>in</hi> Cliffords-Inn-Lane <hi>in</hi> Fleet-street.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:133195:9"/>
+            <pb facs="tcp:133195:9"/>
+            <head>The TABLE.</head>
+            <list>
+               <item>
+                  <hi>ARMS and Ammunition,</hi> Page. 30, 31, 32.</item>
+               <item>
+                  <hi>Abilities how examin'd.</hi> 16</item>
+               <item>
+                  <hi>Arms seiz'd, how restor'd.</hi> 43</item>
+               <item>
+                  <hi>Commissions to be from Lord-Lieutenants.</hi> 3</item>
+               <item>
+                  <hi>Constables to furnish Arms.</hi> 17</item>
+               <item>
+                  <hi>Complaints to be heard.</hi> 25</item>
+               <item>
+                  <hi>Carts and Carriages.</hi> 29</item>
+               <item>
+                  <hi>Constables and Officers Civil to be aiding.</hi> 43, 44</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>
+                  <hi>Deputy-Lieutenants, Officers, and Soldiers must be Sworn.</hi> 6</item>
+               <item>
+                  <hi>Deputy-Lieutenants Powers.</hi> 14</item>
+               <item>
+                  <hi>Deputy-Lieutenants to Train-Forces.</hi> 26</item>
+               <item>
+                  <hi>Deputy-Lieutenants and Offi<g ref="char:EOLhyphen"/>cers
+<pb facs="tcp:133195:10"/>to obey lord-lieute<g ref="char:EOLhyphen"/>nants.</hi> 5, 6</item>
+               <item>
+                  <hi>Duplicates of Tax to be return'd to Quarter-Sessions.</hi> 24</item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>
+                  <hi>Estates, how to be Charg'd,</hi> 14, 15, 16.</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>
+                  <hi>Forces in Cities and Corpo<g ref="char:EOLhyphen"/>rations.</hi> 17</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>
+                  <hi>Lord-Dieute. to be Sworn,</hi> 2</item>
+               <item>
+                  <hi>Lord-Lieutenants Powers.</hi> 3, 4</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>
+                  <hi>Musters.</hi> 26, 27</item>
+               <item>
+                  <hi>Muster-masters Duty.</hi> 40</item>
+               <item>
+                  <hi>Muster-master to be an Inhabi<g ref="char:EOLhyphen"/>tant of the County.</hi> 40</item>
+               <item>
+                  <hi>Muster-masters Pay.</hi> 41</item>
+               <pb facs="tcp:133195:10"/>
+               <item>
+                  <hi>Oaths to be taken.</hi> 10, 11, 12.</item>
+               <item>
+                  <hi>Officers of Foot excused finding to Horse or Foot.</hi> 38</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>
+                  <hi>Peers how to be Charged.</hi> 4</item>
+               <item>
+                  <hi>Peers Houses to be search'd.</hi> 5</item>
+               <item>
+                  <hi>Penalties how Levied.</hi>
+               </item>
+               <item>
+                  <hi>Penalty for not finding Horse.</hi> 20</item>
+               <item>
+                  <hi>For not delivering Horse</hi> &amp;c. 21</item>
+               <item>
+                  <hi>For not appearing.</hi> 22, 23</item>
+               <item>
+                  <hi>Pay to Inferior Officers.</hi> 24</item>
+               <item>
+                  <hi>Pay for a Month to be advan<g ref="char:EOLhyphen"/>ced.</hi> 27, 29</item>
+               <item>
+                  <hi>Penalty in default of Pay.</hi> 36</item>
+               <item>
+                  <hi>Persons executing powers of the Acts Indemnified.</hi> 44</item>
+               <item>
+                  <hi>Proviso, as to Corporations.</hi> 47</item>
+            </list>
+            <pb facs="tcp:133195:11"/>
+            <list>
+               <head>S.</head>
+               <item>
+                  <hi>Soldiers Names to be given in and to be approved by their Captain.</hi> 35</item>
+               <item>
+                  <hi>Search Persons suspect.</hi> 42, 43</item>
+               <item>
+                  <hi>Soldiers subject to Discipline of War.</hi> 39</item>
+               <item>
+                  <hi>Suit or Action, when to be brought.</hi> 45</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>
+                  <hi>Treasurers Clerks.</hi> 25</item>
+               <item>
+                  <hi>Tenants to furnish for Land<g ref="char:EOLhyphen"/>lord.</hi> 19</item>
+               <item>
+                  <hi>Tax, how Levied</hi> 23</item>
+            </list>
+            <p>☞ Note, <hi>That where the</hi> Parag. <hi>stands with Figures only, the same denotes the Paragraphs of the preceding Acts,</hi> viz. <hi>either</hi> 13 &amp; 14 Car. 2. <hi>or</hi> 15 Car. 2.</p>
+         </div>
+      </front>
+      <body>
+         <div type="rule_book">
+            <pb n="1" facs="tcp:133195:11"/>
+            <head>A Necessary ABSTRACT OF THE LAWS Relating to the MILITIA.</head>
+            <p>THat the King's most Excellent Majesty, His Heirs and Suc<g ref="char:EOLhyphen"/>cessors, shall and may, from time to time, as Occasion shall require, issue forth Com<g ref="char:EOLhyphen"/>missions
+<pb n="2" facs="tcp:133195:12"/>of Lieutenancy to such Persons as he and they shall think fit to be Lieute<g ref="char:EOLhyphen"/>nants (who, if Peers, are styled Lord-Lieutenants,) and may at Pleasure Appoint or Displace all Officers and De<g ref="char:EOLhyphen"/>puty-Lieutenants. 13.14. <hi>Car.</hi> 2. Parag. 2.</p>
+            <div type="part">
+               <head>Of the Power of the Lord-Lieutenant.</head>
+               <p>That no Person, being a Peer, shall be capable of Acting as Lord-Lieutenant or Deputy-Lieutenant, till Sworn before Six (at least) Lords of the Privy Council, or such as His Majesty, His Heirs and Successors, shall ap<g ref="char:EOLhyphen"/>point
+<pb n="3" facs="tcp:133195:12"/>to Administer the same. <hi>Parag.</hi> 18.</p>
+               <p>The Lord-Lieutenant may Constitute, Appoint, and give Commissions to such Persons as he shall think fit to be De<g ref="char:EOLhyphen"/>puty Lieutenants, Colonels, Majors, Captains, and other Commission Officers: And shall present to His Majesty the Names of such Persons as he shall so constitute his Depu<g ref="char:EOLhyphen"/>ty-Lieutenants. <hi>Parag.</hi> 2.</p>
+               <p>And is to Appoint Trea<g ref="char:EOLhyphen"/>surers or Clerks for receiving and paying all such Monies as shall be levied by virtue of the said Act. <hi>Parag.</hi> 12.</p>
+               <p>The Lord-Lieutenant has Power and Authority to call
+<pb n="4" facs="tcp:133195:13"/>together all the Trained Bands, at such times, and to arm, array, and form them into Companies, Troops, and Regiments; and in case of In<g ref="char:EOLhyphen"/>surrection, Rebellion, or In<g ref="char:EOLhyphen"/>vasion, to lead, or cause to be lead, conducted and em<g ref="char:EOLhyphen"/>ployed, as well within their respective Counties, Cities, and Places, as into any other, according as he shall receive Direction from His Majesty, His Heirs and Successors. <hi>Parag.</hi> 2.</p>
+               <p>No Peer is to be Charged to Horse or Foot, nor Asses<g ref="char:EOLhyphen"/>sed, but by Twelve, or Six, of such Peers as shall be ap<g ref="char:EOLhyphen"/>pointed by the King for that purpose.</p>
+               <pb n="5" facs="tcp:133195:13"/>
+               <p>But when Peers have been once so Charged and Asses<g ref="char:EOLhyphen"/>sed, then the Penalties may be levied and laid (as in such Cases is required,) by the De<g ref="char:EOLhyphen"/>puty-Lieutenants, and for want of Satisfaction in a week the Distress may be sold, ren<g ref="char:EOLhyphen"/>dring the overplus. No Dwel<g ref="char:EOLhyphen"/>ling of any Peer of this Realm is to be searched but by im<g ref="char:EOLhyphen"/>mediate Warrant from His Majesty under the Sign Ma<g ref="char:EOLhyphen"/>nual, or in the Presence of the Lord-Lieutenant, or one Deputy-Lieutenant of the same Division. <hi>Parag.</hi> 33.</p>
+               <p>All Deputy-Lieutenants, Commission Officers, Con<g ref="char:EOLhyphen"/>stables, and other Officers or
+<pb n="6" facs="tcp:133195:14"/>Ministers, Civil as well as Military, are to observe and obey such Orders and Dire<g ref="char:EOLhyphen"/>ctions, as they shall from time to time receive from the Lord-Lieutenant, for putting in Execution the Powers gi<g ref="char:EOLhyphen"/>ven by the Acts. <hi>Parag.</hi> 13.</p>
+            </div>
+            <div type="part">
+               <head>Of Oaths, of Powers to Charge Estates, of Le<g ref="char:EOLhyphen"/>vying Taxes, of Mu<g ref="char:EOLhyphen"/>sters, of Exercise, and Training.</head>
+               <p>That all Deputy-Lieute<g ref="char:EOLhyphen"/>nants, Officers and Soldiers, ought to be Sworn before they act in their respective Capacities, the Lord-Lieute<g ref="char:EOLhyphen"/>nant,
+<pb n="7" facs="tcp:133195:14"/>or one Justice of Peace of the same County, may ad<g ref="char:EOLhyphen"/>minister the Oaths to Deputy-Lieutenants; and two Depu<g ref="char:EOLhyphen"/>ty-Lieutenants (when Sworn) may administer the Oaths to officers and Soldiers. <hi>Par.</hi> 19.</p>
+               <p>By the Act 25 <hi>Car.</hi> 2. for preventing Dangers from Po<g ref="char:EOLhyphen"/>pish Recusants, it is Enacted, <q rend="margQuotes">That all and every Person and persons, that shall enter into any Office Military, shall take the Oaths, and Subscribe the Declaration, in the High Court of <hi>Chan<g ref="char:EOLhyphen"/>cery,</hi> or Court of <hi>Kings Bench</hi> at <hi>VVestminster,</hi> or at the Quarter-Sessions, within three months after
+<pb n="8" facs="tcp:133195:15"/>Admittance into, or recei<g ref="char:EOLhyphen"/>ving, their Authority or Em<g ref="char:EOLhyphen"/>ployment, at which time, every Person (so to be sworn) must deliver a Cer<g ref="char:EOLhyphen"/>tificate under the Hands of the respective Minister and Churchwarden, where he receives, and must make proof of the said Certifi<g ref="char:EOLhyphen"/>cate, by two Witnesses, upon Oath; all which is to be put upon Record, or else such Office to be void: But if any Person shall execute any Office after neglecting to be sworn as aforesaid, and thereupon be lawfully con<g ref="char:EOLhyphen"/>victed, such shall be uncapa<g ref="char:EOLhyphen"/>ble and disabled to sue or
+<pb n="9" facs="tcp:133195:15"/>use any Action, or prosecute any Suit, or be Executor or Administrator, &amp;c. and shall forfeit the Sum of 500 <hi>l.</hi> to be recovered by him or them that shall sue for the same.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">
+                     <hi>Proviso,</hi> That the said Act shall not extend to the Office of High Constable, Constable, Tythingman, Headborough, Overseer of the Poor, Church Warden, or any inferiour Civil Offi<g ref="char:EOLhyphen"/>cer, or any Office of Forester, Keeper, or Bailiff of any Mannor or Lands.</q>
+               </p>
+               <pb n="10" facs="tcp:133195:16"/>
+               <p>The Oaths appoint<g ref="char:EOLhyphen"/>ed to be taken by 1 <hi>Wilielmi &amp; Mariae,</hi> in the stead and place of the Oath of Allegi<g ref="char:EOLhyphen"/>ance and Supremacy.</p>
+               <p n="1">
+                  <hi>I</hi> A. B. <hi>do sincerely Promise and Swear, That I will be Faithful, and bear True Allegiance to Their Majesties King</hi> William <hi>and Queen</hi> Ma<g ref="char:EOLhyphen"/>ry. So help me God.</p>
+               <p n="1">
+                  <hi>I</hi> A. B. <hi>do Swear, That I do from my Heart Abhor, Detest, Abjure, as
+<pb n="11" facs="tcp:133195:16"/>Impious and Heretical, that Damnable Doctrine and Position, That Prin<g ref="char:EOLhyphen"/>ces Excommunicated or Deprived by the Pope, or any Authority of the See of</hi> Rome, <hi>may be De<g ref="char:EOLhyphen"/>posed or Murthered by their Subjects, or any other whatsoever; and I do de<g ref="char:EOLhyphen"/>clare, That no Foreign Prince, Person, Prelate, State or Potentate, hath, or ought to have, any Power, Jurisdiction, Supe<g ref="char:EOLhyphen"/>riority, Preeminence, or
+<pb n="12" facs="tcp:133195:17"/>Authority, Ecclesiastical or Spiritual within this Realm.</hi> So help me God.</p>
+               <p n="1">
+                  <hi>I</hi> A. B. <hi>do declare and believe, That it is not Lawful, upon any pretence whatsoever, to take Arms against the King, and that I do abhor that Traite<g ref="char:EOLhyphen"/>rous Position, that Arms may be taken by His Au<g ref="char:EOLhyphen"/>thority against His Per<g ref="char:EOLhyphen"/>son, or against those that are Commissionated by him in pursuance of such Mi<g ref="char:EOLhyphen"/>litary
+<pb n="13" facs="tcp:133195:17"/>Commissions.</hi> So help me God.</p>
+               <p>The Declaration which is to be made and subscribed by eve<g ref="char:EOLhyphen"/>ry Person concerned in taking the Oaths, which are to be Regi<g ref="char:EOLhyphen"/>stred at the Quarter-Sessions.</p>
+               <p n="1">
+                  <hi>I</hi> A. B. <hi>do declare, That I do believe that there is not any</hi> Transubstantia<g ref="char:EOLhyphen"/>tion <hi>in the</hi> Sacrament <hi>of the Lords Supper, or in the Elements of Bread and
+<pb n="14" facs="tcp:133195:18"/>Wine, At, or After, the Consecration thereof, by any Person whatsoever.</hi>
+               </p>
+               <p>The Deputy-Lieutenants, or the major part of them, or three, or in some cases two, may put in execution the Powers of the said Acts, in the Absence of the Lord Lieutenant. <hi>Parag.</hi> 2.</p>
+               <p>Three Deputy Lieutenants may Charge any Person or Persons with Horse, Horse<g ref="char:EOLhyphen"/>man and Arms, or Foot Sol<g ref="char:EOLhyphen"/>diers and Arms. That 500 <hi>l. per Annum</hi> in Possession, or 6000 <hi>l.</hi> Stock, (besides Hou<g ref="char:EOLhyphen"/>shold Furniture) is to find a Horse, Man, and Arms; and so
+<pb n="15" facs="tcp:133195:18"/>after that rate at Discretion. That 50<hi>l. per Annum</hi> in Pos<g ref="char:EOLhyphen"/>session, or 600 l. Stock, (other than Stock upon Ground,) is to find a Foot Soldier and Arms; and so after that rate at Discretion for Estates or Revenues, greater or lesser, and by joyning two, three, or more Persons together, as the Deputy Lieutenants, or major part present, shall think fit. Provided no Person be char<g ref="char:EOLhyphen"/>ged to Horse and Foot in the same County. <hi>Parag.</hi> 3.</p>
+               <p>That any Person, having 100 l. <hi>per Annum</hi> in Possession, or 1200 l. value in Personal Estate, or under 2400 l. value (chargable by the said Act,)
+<pb n="16" facs="tcp:133195:19"/>may be charged to Horse or Foot at Discretion, <hi>per</hi> Act 15 <hi>Car.</hi> 2. <hi>Parag.</hi> 18.</p>
+               <p>Provided, That no Person, that has not 100 l. <hi>per Annum</hi> in Possession or 1200 l. value in Personal Estate, shall be compellable towards the find<g ref="char:EOLhyphen"/>ing of Horse 13 <hi>&amp;</hi> 14. <hi>Par.</hi> 5.</p>
+               <p>Nor shall any Estate of 200 l. <hi>per Annum</hi> in Possession, or Personal Estate of 2400 l. value, be chargable to the finding of Foot. 15. <hi>Par.</hi> 18.</p>
+               <p>Deputy Lieutenants, three or more, may examine upon Oath, for discovery of the Ability of Persons to be as<g ref="char:EOLhyphen"/>sessed and charged, and all Misdemeanors tending to the
+<pb n="17" facs="tcp:133195:19"/>hindrance of the said Ser<g ref="char:EOLhyphen"/>vice. 13, 14. <hi>Parag.</hi> 11.</p>
+               <p>And may give redress ac<g ref="char:EOLhyphen"/>cording to the Merits of the Cause. <hi>Parag.</hi> 5.</p>
+               <p>Yet nevertheless this shall not be construed to extend to make any Alteration concern<g ref="char:EOLhyphen"/>ing the Forces to be raised or charged in Cities, Corpora<g ref="char:EOLhyphen"/>tions, and Port Towns. 15. <hi>Parag.</hi> 18.</p>
+               <p>Three Deputy Lieutenants may appoint Constables to provide and furnish sufficient Foot Arms (with Wages and other incident Charges,) as they shall assess and charge upon Revenues under 50 <hi>l. per Annum,</hi> or Personal E<g ref="char:EOLhyphen"/>states
+<pb n="18" facs="tcp:133195:20"/>less than 600 <hi>l.</hi> value, according to the Rules and Proportions of the said Acts by a Pound Rate.</p>
+               <p>And may inflict a Penalty of 40 <hi>s.</hi> for every Omis<g ref="char:EOLhyphen"/>sion of any Constable. <hi>Pa<g ref="char:EOLhyphen"/>rag.</hi> 4.</p>
+               <p>And if any Person, so rated, shall refuse or neglect to provide, or pay according to the proportion (rated and signed by Deputy Lieute<g ref="char:EOLhyphen"/>nants,) it shall be lawful for Constable, by Warrant for that purpose, to levy the same by Distress and Sale. <hi>Pa<g ref="char:EOLhyphen"/>rag.</hi> 5.</p>
+               <pb n="19" facs="tcp:133195:20"/>
+               <p>Where Persons to be char<g ref="char:EOLhyphen"/>ged do not reside in the same County, Notice under Hand and Seal of three Deputy Lieutenants to the General Agent, or one or two suffici<g ref="char:EOLhyphen"/>ent Tenants, shall be sufficient, and they are to return Answer from the Landlord, or else to provide and do as the Land<g ref="char:EOLhyphen"/>lord in such case ought to do; and in case of refusal or ne<g ref="char:EOLhyphen"/>glect, upon every default, are to pay like Penalties. 13 <hi>&amp;</hi> 14. <hi>Parag.</hi> 16.</p>
+               <p>That all such Tenants may defaulk what they shall so ne<g ref="char:EOLhyphen"/>cessarily expend out of such Rents as shall be next due to
+<pb n="20" facs="tcp:133195:21"/>their Landlord, and shall be indemnified by the said Acts, unless the Landlord make ap<g ref="char:EOLhyphen"/>pear, within two months, that the Default and Penalty was occasioned by wilful neglect of the Tenant. <hi>Parag.</hi> 17.</p>
+               <p>Provided, that the Act ex<g ref="char:EOLhyphen"/>tend not to avoid Covenants between Landlord and Te<g ref="char:EOLhyphen"/>nant, concerning the finding of Horses or Arms, or pay<g ref="char:EOLhyphen"/>ing Rates and Taxes. <hi>Pa<g ref="char:EOLhyphen"/>rag.</hi> 29.</p>
+               <p>Three Deputy Lieutenants may inflict a Penalty of 20 <hi>l.</hi> on such as refuse or neglect to furnish sufficient Horse, Horse-man and Arms, and other Furniture; or may
+<pb n="21" facs="tcp:133195:21"/>cause to be levied such Sum or Sums of Money, or value of such Horse, Arms, and Fur<g ref="char:EOLhyphen"/>niture to be employed to the said Uses. <hi>Parag.</hi> 9.</p>
+               <p>And may impose a Penalty of 5 <hi>l.</hi> on such as refuse or neglect to send or deliver their Horse, Arms and Furni<g ref="char:EOLhyphen"/>ture. <hi>Parag.</hi> 10.</p>
+               <p>And in like manner a Pe<g ref="char:EOLhyphen"/>nalty of 5 <hi>l.</hi> on such as refuse or neglect to provide and fur<g ref="char:EOLhyphen"/>nish sufficient Foot Soldier and Arms. 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Parag.</hi> 3.</p>
+               <p>And for default of Ap<g ref="char:EOLhyphen"/>pearance at beat of Drum, sound of Trumpet, or other Summons, two Deputy Lieu<g ref="char:EOLhyphen"/>tenants may imprison five
+<pb n="22" facs="tcp:133195:22"/>days, or inflict a Penalty of Twenty Shillings on a Horse<g ref="char:EOLhyphen"/>man, and Ten Shillings on a Foot Soldier, to be imme<g ref="char:EOLhyphen"/>diately paid down. And may imprison such as detain and imbezel Horse, Arms, or Fur<g ref="char:EOLhyphen"/>niture, till satisfaction be made. 13 <hi>&amp;</hi> 14. <hi>Parag.</hi> 10.</p>
+               <p>And may imprison for Twenty days, or impose a Penalty of Five Shillings on Mutineers, and on such Sol<g ref="char:EOLhyphen"/>diers as do not their Duty at the day of their Musters. <hi>Parag.</hi> 8.</p>
+               <p>Three Deputy Lieutenants may commit to Prison, by Warrant under Hands and Seals, such as resuse to pay
+<pb n="23" facs="tcp:133195:22"/>Penalties inflicted by the said Acts (in case there be not sufficient Distresses to be found to answer the Forfei<g ref="char:EOLhyphen"/>tures and Penalties) until Sa<g ref="char:EOLhyphen"/>tisfaction be made. The several Forfeitures, Penalties, and Payments, imposed (not otherwise by the Acts di<g ref="char:EOLhyphen"/>rected) ought to be employed to the same Uses, in default whereof the same are impos'd. 15. <hi>Parag.</hi> 16.</p>
+               <p>Three Deputy Lieutenants have power to lay fitting Rates on the respective Coun<g ref="char:EOLhyphen"/>ty and Places, not exceeding the fourth part of one months Assessment, in any one year, after the rate of 70000 <hi>l.
+<pb n="24" facs="tcp:133195:23"/>per Mensem,</hi> according to the Rules of the Act made 12 <hi>Car.</hi> 2. Entituled, <hi>An Act for raising</hi> 70000 l. <hi>for the further Supply of His Majesty, for furnishing Ammunition and other Necessaries.</hi> 13 &amp; 14. Parag. 7.</p>
+               <p>Deputy Lieutenants may dispose so much thereof, as they, or any three, shall see fit, to the inferior Officers Em<g ref="char:EOLhyphen"/>ploy'd in or about the said respective Forces, for their Pains and Incouragement. 15. <hi>Parag.</hi> 12.</p>
+               <p>Of all which, Receipts and Disbursments; Accompts or Extracts, thereof, are to be given in by the Treasurer or
+<pb n="25" facs="tcp:133195:23"/>Clerk in Writing, and upon Oath, at the General Quarter Sessions, and likewise be cer<g ref="char:EOLhyphen"/>tified to the Lords of the Privy Council. <hi>Parag.</hi> 12.</p>
+               <p>Three Deputy Lieutenants have power to hear all Com<g ref="char:EOLhyphen"/>plaints, examine Witnesses upon Oath, and give redress as they see cause. <hi>Parag.</hi> 11.</p>
+               <p>
+                  <q rend="margQuotes">To which purpose it is requisite to appoint certain Times and Places for Ap<g ref="char:EOLhyphen"/>peals and Complaints, on the second day at every General Quarter Sessions, and some Afternoon at the time of the Assizes.</q>
+               </p>
+               <pb n="26" facs="tcp:133195:24"/>
+               <p>In Absence of the Lord Lieutenant, or otherwise, by his Direction, the Deputy Lieutenants, two or more, have power to Train, Exer<g ref="char:EOLhyphen"/>cise, and put in Readiness, the Trained Bands, or any Regi<g ref="char:EOLhyphen"/>ment, Company, or Troop, thereof. 15. <hi>Parag</hi> 1.</p>
+               <p>The Training and Exerci<g ref="char:EOLhyphen"/>sing of single Companies, and Troops, are not to be above four times in one year; nor are they to be continued in Exercise above the space of two days at one time, unless special Directions be given by Their Majesties or the Privy Council.</p>
+               <pb n="27" facs="tcp:133195:24"/>
+               <p>A General Muster is not to be above once a year, at which no Officer or Soldier is to be constrained to stay for above four days together, from their respective Habita<g ref="char:EOLhyphen"/>tions. 13 <hi>&amp;</hi> 14. <hi>Parag.</hi> 21.</p>
+               <p>And in case of Invasion, or drawing out into actual Service, all Persons charged shall furnish a months Pay in hand, or so much thereof as shall be directed by the De<g ref="char:EOLhyphen"/>puty Lieutenants, or any two of them. For Repayment whereof (and Satisfaction to Officers,) Provision is to be made by the King. And by the said Act no Person, who has advanced one Months
+<pb n="28" facs="tcp:133195:25"/>Pay, is to be charged again with another Months Pay till he be reimbursed. <hi>Pa<g ref="char:EOLhyphen"/>rag.</hi> 7.</p>
+               <p>But by an Act <hi>Anno Secundo Willielmi &amp; Mariae,</hi> for raising the Militia for the year 1691, if at any time before the 25th of <hi>December</hi> 1691, it shall be found necessary to draw out the said Soldiers into actual Service, the Lord Lieutenant, or Deputy Lieu<g ref="char:EOLhyphen"/>tenants, or two or more, may, in pursuance of Orders from Their Majesties, (notwith<g ref="char:EOLhyphen"/>standing that one or more Months Pay before that time advanced be not reimbursed,) raise and draw out the said
+<pb n="29" facs="tcp:133195:25"/>Soldiers into actual Service, and to cause the Persons charg'd as aforesaid to provide each their Soldier, with Pay in hand not exceeding one Months Pay.</p>
+               <p>Three Deputy Lieutenants, or the chief Officer upon the place, as there may be occa<g ref="char:EOLhyphen"/>sion, may charge Carts and Horses, <hi>&amp;c.</hi> for carrying of Powder, Bullet, Match, and other Materials, <hi>&amp;c.</hi> allowing 6 <hi>d. per</hi> Mile (outward only) for every Carriage with Five Horses, or Six Oxen, and so proportionably; and One Peny a Mile for every single Horse that shall be employed in such Service. 13, 14. <hi>Parag.</hi> 8.</p>
+            </div>
+            <div type="part">
+               <pb n="30" facs="tcp:133195:26"/>
+               <head>Of Arms, Ammunition, Accoutrements, Mu<g ref="char:EOLhyphen"/>ster-Masters, and Of<g ref="char:EOLhyphen"/>ficers.</head>
+               <list>
+                  <item>Defen<g ref="char:EOLhyphen"/>sive Arms for a Horse<g ref="char:EOLhyphen"/>man.
+<list>
+                        <item>Back, Pistol Proof.</item>
+                        <item>Breast, Pistol Proof.</item>
+                        <item>Pot, Pistol Proof</item>
+                     </list>
+                  </item>
+                  <item>Offen<g ref="char:EOLhyphen"/>sive Arms.
+<list>
+                        <item>a Sword.</item>
+                        <item>a Case of Pistols, Barrels 14 In<g ref="char:EOLhyphen"/>ches.</item>
+                     </list>
+                  </item>
+                  <item>Furniture,
+<list>
+                        <item>A Saddle, with Burrs and Hol<g ref="char:EOLhyphen"/>sters,</item>
+                        <item>a Bit,</item>
+                        <item>Bri<g ref="char:EOLhyphen"/>dle, </item>
+                        <item>Pectoral,</item>
+                        <item> &amp; Crupper. 13 <hi>&amp;</hi> 14. <hi>Parag.</hi> 21.</item>
+                     </list>
+                  </item>
+               </list>
+               <pb n="31" facs="tcp:133195:26"/>
+               <p>Every Horseman to bring a quarter of a Pound of Powder, and like wait of Bullet, at every Muster Training and Exercise at the Charge of the Finder, upon pain of the Finder forfeiting 5 <hi>s.</hi> for every Omission.</p>
+               <p>Every Musquetier is to bring half a Pound of Powder, and like Quantity of Bul<g ref="char:EOLhyphen"/>lets. 15. <hi>Parag.</hi> 7.</p>
+               <list>
+                  <item>A Musquet, The Barrel 3 Foot, Gage 12 Bullets to a Pound; </item>
+                  <item>a Collar of Ban<g ref="char:EOLhyphen"/>diliers;</item>
+                  <item>a Sword.</item>
+               </list>
+               <pb n="32" facs="tcp:133195:27"/>
+               <list>
+                  <head>Pikeman,</head>
+                  <item>A Pike of Ash, 16 Foot long,</item>
+                  <item>a Sword,</item>
+                  <item>Back, Breast, and Head Piece. 13 <hi>&amp;</hi> 14. <hi>Parag.</hi> 21.</item>
+               </list>
+               <p>
+                  <hi>The Captains dispense with their not using Iron Armour, in case the Horsemen agree to ap<g ref="char:EOLhyphen"/>pear in Buff Coats and Belts suitable.</hi>
+               </p>
+               <p>
+                  <hi>And the Foot in Cloth Coats of a colour, suitable to the Regiment.</hi>
+               </p>
+               <pb n="33" facs="tcp:133195:27"/>
+               <p>
+                  <hi>But in case the Finders refuse to send in, or ap<g ref="char:EOLhyphen"/>pear thus suitably, the Officers may make the Duty severe to such as are obstinate, by not per<g ref="char:EOLhyphen"/>mitting them to quit their wearing their Iron Ar<g ref="char:EOLhyphen"/>mour, during all the time they are out.</hi>
+               </p>
+               <p>
+                  <hi>And since the Militia in many Counties and great Towns, for the most part, have already fur<g ref="char:EOLhyphen"/>nished the Horsemen with Buff Coats and Belts, and
+<pb n="34" facs="tcp:133195:28"/>Carabines; and the Foot with Cloth Coats, Hats, and Stockings, a small Charge, (with the Care of the respective Captains, in ordering the same to be laid by and preserved, be<g ref="char:EOLhyphen"/>tween such times as there is occasion for their Ser<g ref="char:EOLhyphen"/>vice,) may make the whole Militia appear hand<g ref="char:EOLhyphen"/>some, as well as be use<g ref="char:EOLhyphen"/>ful.</hi>
+               </p>
+               <p>Persons charged must find such to perform the Duty as are quali<g ref="char:EOLhyphen"/>fied
+<pb n="35" facs="tcp:133195:28"/>and approved by the Captain, and must give in their Christian and Sirnames, that they may be Listed and Sworn, who may not change nor depart the Service without Leave, on Penalty of Twenty Pounds, or Imprison<g ref="char:EOLhyphen"/>ment for default of Payment, or Distress, (subject to Appeal.) <hi>Parag.</hi> 25.</p>
+               <p>Every one that re<g ref="char:EOLhyphen"/>fuses to pay Two Shil<g ref="char:EOLhyphen"/>lings
+<pb n="36" facs="tcp:133195:29"/>and Six Pence <hi>per diem</hi> to a Horseman, for such time as he shall be on Duty, shall for<g ref="char:EOLhyphen"/>feit Five Shillings <hi>per diem</hi> to the said Horse<g ref="char:EOLhyphen"/>man.</p>
+               <p>And likewise every one that refuses to pay one Shilling <hi>per diem</hi> to his Foot Soldier, shall forfeit Two Shillings <hi>per diem</hi> to the said Foot Soldier, if such Forfeitures be demand<g ref="char:EOLhyphen"/>ed in Six Weeks after
+<pb n="37" facs="tcp:133195:29"/>default. 15. <hi>Parag.</hi> 2. <hi>Officers and others to whom Pay is usually allowed out of the Weeks Tax.</hi>
+               </p>
+               <list>
+                  <head>Of Horse,</head>
+                  <item>Captain,</item>
+                  <item>Lieutenant,</item>
+                  <item>Cornet,</item>
+                  <item>Quarter-Master,</item>
+                  <item>Corporals,</item>
+                  <item>Trumpe<g ref="char:EOLhyphen"/>ters.</item>
+               </list>
+               <pb n="38" facs="tcp:133195:30"/>
+               <list>
+                  <head>Of Foot,</head>
+                  <item>Captain,</item>
+                  <item>Lieutenant,</item>
+                  <item>Ensign,</item>
+                  <item>Sergeants,</item>
+                  <item>Drummers,</item>
+                  <item>a Quarter-Master of a Regiment.</item>
+               </list>
+               <p>Every Commission'd Foot Officer is ex<g ref="char:EOLhyphen"/>cused from finding or contributing towards Horse or Foot, if his Estate be not charge<g ref="char:EOLhyphen"/>able with more than one Horse. 15. <hi>Parag.</hi> 9.</p>
+               <pb n="39" facs="tcp:133195:30"/>
+               <p>
+                  <hi>The Soldiers of every Company and Troop, (when summoned to appear,) af<g ref="char:EOLhyphen"/>ter they have been called over, are to be Subject to their Officers according to the Discipline of War, during the time of their being out: And in the Night time, a Court of Guard is to be appointed, Centinels set, and Silence and good Order required; and every Fault and Dis<g ref="char:EOLhyphen"/>obedience is punishable.</hi>
+               </p>
+               <pb n="40" facs="tcp:133195:31"/>
+               <p>Every Muster Ma<g ref="char:EOLhyphen"/>ster ought to be an In<g ref="char:EOLhyphen"/>habitant of the respe<g ref="char:EOLhyphen"/>ctive County, and is to attend at the Mu<g ref="char:EOLhyphen"/>ster of every Regiment, Troop, and Company, once a year, and take care, that no Arms be admitted, but such as are allowable by the Acts.</p>
+               <p>Each Soldier Listed shall pay, once a year, to the Muster-Master, such Sum, not exceed<g ref="char:EOLhyphen"/>ing
+<pb n="41" facs="tcp:133195:31"/>One Shilling for a Horseman, and Six Pence for a Foot Sol<g ref="char:EOLhyphen"/>dier, as shall be dire<g ref="char:EOLhyphen"/>cted, under the Hands and Seals of Three, or more, Deputy Lieute<g ref="char:EOLhyphen"/>nants, which may be levied by Distress and Sale of the Goods of the Persons charged, in default of Payment. 15. <hi>Parag.</hi> 6.</p>
+               <p>Two, or more, De<g ref="char:EOLhyphen"/>puty Lieutenants, by Warrant under Hand
+<pb n="42" facs="tcp:133195:32"/>and Seal, may employ such Persons as they shall thine fit (of which a Commission Officer, and the Constable, or his Deputy, <hi>&amp;c.</hi> of the the same Parish, to be two) to search for and seize all Arms, in the Custody of Persons whom they shall judge dangerous to the Peace of the Kingdom, and secure such Arms for Their Majesties Ser<g ref="char:EOLhyphen"/>vice, and give account
+<pb n="43" facs="tcp:133195:32"/>thereof to the Lord-Lieutenant.</p>
+               <p>But no search to be between Sun Setting and Sun Rising, except in Cities, Corporations and Bills of Mortality.</p>
+               <p>Arms so seized may be restored, if the Lord Lieutenant, or in his Absence the Deputy Lieutenants, or two of of them, shall think fit. 13 <hi>&amp;</hi> 14. <hi>Parag.</hi> 14.</p>
+               <p>All High Consta<g ref="char:EOLhyphen"/>bles, Petty Constables,
+<pb n="44" facs="tcp:133195:33"/>Officers and Ministers, are required to be aiding and assisting in the Execution of the Powers of the said Acts. <hi>Parag.</hi> 15.</p>
+               <p>All Persons who shall act and do any thing in Execution of the Powers in the said Acts shall be Indem<g ref="char:EOLhyphen"/>nified. 15. <hi>Parag.</hi> 13.</p>
+               <p>No Action or Suit to be brought against any Person, for any thing done in Execu<g ref="char:EOLhyphen"/>tion
+<pb n="45" facs="tcp:133195:33"/>of the said Pow<g ref="char:EOLhyphen"/>ers, unless the same be brought in Six months after Cause, and in the proper County. <hi>Pa<g ref="char:EOLhyphen"/>rag.</hi> 14.</p>
+               <p>
+                  <hi>Proviso,</hi> Not to ex<g ref="char:EOLhyphen"/>tend to give further or other Power, for Transporting Subjects of this Realm, than by the Laws of <hi>England.</hi> 13, 14. <hi>Parag.</hi> 33.</p>
+               <p>The respective Lord Wardens of the <hi>Cinque Ports</hi> have like Au<g ref="char:EOLhyphen"/>thority
+<pb n="46" facs="tcp:133195:34"/>and Power within their Precincts, as the respective Lord Lieutenants have in the Counties. 15. <hi>Pa<g ref="char:EOLhyphen"/>rag.</hi> 19.</p>
+               <p>Provided always, That nothing in the Acts extend to put any new or other Charge on the Tinners in <hi>De<g ref="char:EOLhyphen"/>von</hi> and <hi>Cornwall</hi> than as formerly.</p>
+               <p>A <hi>Proviso</hi> and Sa<g ref="char:EOLhyphen"/>ving also to the City of <hi>London,</hi> and the
+<pb n="47" facs="tcp:133195:34"/>Tower Division, and the Isle of <hi>Wight.</hi>
+               </p>
+               <p>Provided, That no Officer or Soldier of the Trained Bands, of any City, Borough, or Town Corporate, being a County, <hi>&amp;c.</hi> shall be compelled to appear out of their Precincts at any Mu<g ref="char:EOLhyphen"/>ster or Exercise only.</p>
+            </div>
+         </div>
+         <div type="handbook">
+            <pb facs="tcp:133195:35"/>
+            <pb n="1" facs="tcp:133195:35"/>
+            <head>INSTRƲCTIONS for Exercise of single Com<g ref="char:EOLhyphen"/>panies, and Troops or Regiments.</head>
+            <p>THere are three sorts of Distances.</p>
+            <p>
+               <hi>Open Order, Order, and Close Order.</hi>
+            </p>
+            <p n="1">1. The open
+<note n="(a)" place="margin">This is adjudged by the meeting of their Hands, when stretched at Arms length.</note> Order, or first Distance, is when the Soldiers both in Rank and File stand 6 Foot from each other.</p>
+            <p n="2">2. Order,
+<note n="(b)" place="margin">Ʋsed when Embattled, or marching towards the face of an Ene<g ref="char:EOLhyphen"/>my, or at a stand, or wheeling.</note> or second
+<pb n="2" facs="tcp:133195:36"/>Distance, is when the Soldi<g ref="char:EOLhyphen"/>ers stand 3 foot distance both in Rank and File.</p>
+            <p>But when they march
+<note n="(c)" place="margin">Di<g ref="char:EOLhyphen"/>stance for Ranks is known when the But end of the Pikes do almost reach the Leaders Heels.</note> through any Country, they must observe the 3 foot di<g ref="char:EOLhyphen"/>stance between the Files, and 6 foot between the Ranks.</p>
+            <p n="3">3. Close Order,
+<note n="d)" place="margin">Di<g ref="char:EOLhyphen"/>stance of close Order is judged by the meeting of their El<g ref="char:EOLhyphen"/>bows when their Arms stand a kenbo.</note> or third Distance, is when there is a foot and half between the Files, and 3 foot between the Ranks, and is for the Pikes only when they are to stand to receive the Charge of an Enemy.</p>
+            <p>The Musketeers must ne<g ref="char:EOLhyphen"/>ver be closer than the se<g ref="char:EOLhyphen"/>cond distance of three foot in square, that they may have
+<pb n="3" facs="tcp:133195:36"/>a free use of their Arms.</p>
+            <div type="part">
+               <head>To Exercise their Motions.</head>
+               <p>O Bserve the open Order or first Distance of six foot in square, in which the Company being placed, they may more easily be ac<g ref="char:EOLhyphen"/>quainted with the Terms of Direction, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>Stand right in your files.</hi>
+                  </item>
+                  <item>
+                     <hi>Stand right in your ranks.</hi>
+                  </item>
+                  <item>
+                     <hi>Silence.</hi>
+                  </item>
+                  <item>
+                     <hi>To the right hand.</hi>
+                  </item>
+                  <item>
+                     <hi>As you were.</hi>
+                     <note n="(e)" place="margin">
+                        <hi>Ob<g ref="char:EOLhyphen"/>serve when the words of Com<g ref="char:EOLhyphen"/>mand,</hi> As you were, <hi>are pro<g ref="char:EOLhyphen"/>nounced, they are e<g ref="char:EOLhyphen"/>ver to re<g ref="char:EOLhyphen"/>turn by the con<g ref="char:EOLhyphen"/>trary hand.</hi>
+                     </note>
+                  </item>
+                  <item>
+                     <hi>To the left hand.</hi>
+                  </item>
+                  <item>
+                     <hi>As you were.</hi>
+                  </item>
+                  <item>
+                     <hi>To the right about.</hi>
+                  </item>
+                  <item>
+                     <hi>As you were.</hi>
+                  </item>
+                  <pb n="4" facs="tcp:133195:37"/>
+                  <item>
+                     <hi>Ranks, to the right hand, double.</hi>
+                  </item>
+                  <item>
+                     <hi>As you were.</hi>
+                  </item>
+                  <item>
+                     <hi>To the left, double.</hi>
+                  </item>
+                  <item>
+                     <hi>As you were.</hi>
+                  </item>
+                  <item>
+                     <hi>Files, to the right hand, double.</hi>
+                  </item>
+                  <item>
+                     <hi>As you were.</hi>
+                  </item>
+                  <item>
+                     <hi>To the left, double.</hi>
+                  </item>
+                  <item>
+                     <hi>As you were.</hi>
+                  </item>
+                  <item>
+                     <hi>Middle Men, to the right, dou<g ref="char:EOLhyphen"/>ble your Front.</hi>
+                  </item>
+                  <item>
+                     <hi>As you were.</hi>
+                  </item>
+                  <item>
+                     <hi>To the left, double your Front.</hi>
+                  </item>
+                  <item>
+                     <hi>As you were.</hi>
+                  </item>
+                  <item>
+                     <hi>Ranks, to the right (or left)</hi>
+                  </item>
+                  <item>
+                     <hi>Counter-march.</hi>
+                  </item>
+                  <item>
+                     <hi>As you were.</hi>
+                  </item>
+               </list>
+               <p>When they Counter<g ref="char:EOLhyphen"/>march to the right, the last rank of Leaders only must
+<pb n="5" facs="tcp:133195:37"/>advance one step with the right Leg, and then turn, and all the rest of the ranks must march first up to the place from whence the first rank did counter-march, be<g ref="char:EOLhyphen"/>fore they turn; the like Or<g ref="char:EOLhyphen"/>der for the Files also, in coun<g ref="char:EOLhyphen"/>ter-marching to the left hand.</p>
+            </div>
+            <div type="part">
+               <head>To Exercise a single Company.</head>
+               <list>
+                  <item>
+                     <hi>RAnks, to the right (or left) hand, double.</hi>
+                  </item>
+                  <item>
+                     <hi>Files, to the right (or left) or to the middle) close to your Order of three foot.</hi>
+                  </item>
+                  <item>
+                     <hi>Ranks, close to the Order of</hi> 3 <hi>foot.</hi>
+                  </item>
+                  <item>
+                     <hi>Wheel to the right hand.</hi>
+                  </item>
+                  <pb n="6" facs="tcp:133195:38"/>
+                  <item>
+                     <hi>Wheel to the left hand.</hi>
+                  </item>
+                  <item>
+                     <hi>Wheel about.</hi>
+                  </item>
+               </list>
+               <p>It is fit to double the Ranks before they wheel, be<g ref="char:EOLhyphen"/>cause the body is small; but in a division or greater body, close first both Files and Ranks to the order of three foot, and omit the doubling.</p>
+               <p>When they wheel to the right hand, double the ranks to the left; and if to the left, then double the ranks to the right, for so the right and left hand Leaders, will keep their places, on that corner, towards which they wheel.</p>
+               <list>
+                  <item>
+                     <note n="(f)" place="margin">
+                        <hi>Double distance is</hi> 12 <hi>foot.</hi>
+                     </note>
+                     <hi>Ranks backward, open in double distance.</hi>
+                  </item>
+                  <pb n="7" facs="tcp:133195:38"/>
+                  <item>
+                     <hi>Files, open to your order of three foot.</hi>
+                  </item>
+                  <item>
+                     <hi>Ranks, as you were.</hi>
+                  </item>
+               </list>
+               <p>Greater Bodies, where the doubling is omitted, open first the Ranks and then the Files, to the open order of six foot.</p>
+               <p>In opening Ranks or Files, make all, except the outer<g ref="char:EOLhyphen"/>most, (on that hand from whence they move, which must stand still,) to move all together, till the second Rank or File from that which stands hath got the due di<g ref="char:EOLhyphen"/>stance, and consequently the rest.</p>
+               <p>If you would have them close their Files to the right
+<pb n="8" facs="tcp:133195:39"/>or left, the outermost File (to which they should close) must stand still.</p>
+            </div>
+            <div type="part">
+               <head>To Exercise the Musket.</head>
+               <list>
+                  <item>
+                     <hi>SHoulder your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Lay your right hand on your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Poize your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Rest your Musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Cock your Mus<g ref="char:EOLhyphen"/>ket, or</hi>
+                     <list>
+                        <item>
+                           <hi>Handle your match.</hi>
+                        </item>
+                        <item>
+                           <hi>Cock and try your match.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Guard your Pan, or,</hi>
+                     <list>
+                        <item>
+                           <hi>Blow your match.</hi>
+                        </item>
+                        <item>
+                           <hi>Open your Pan.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <pb n="9" facs="tcp:133195:39"/>
+                  <item>
+                     <hi>Present.</hi>
+                  </item>
+                  <item>
+                     <hi>Give fire.</hi>
+                  </item>
+                  <item>
+                     <hi>Recover your Arms.</hi>
+                  </item>
+                  <item>
+                     <hi>Clean your Pan with your Thumb.</hi>
+                  </item>
+                  <item>
+                     <hi>Return your match.</hi>
+                  </item>
+                  <item>
+                     <hi>Handle your primer.</hi>
+                  </item>
+                  <item>
+                     <hi>Prime your pan.</hi>
+                  </item>
+                  <item>
+                     <hi>Shut your pan with a full hand.</hi>
+                  </item>
+                  <item>
+                     <hi>Blow off the loose corns.</hi>
+                  </item>
+                  <item>
+                     <hi>Cast about to charge.</hi>
+                  </item>
+                  <item>
+                     <hi>Handle your charger.</hi>
+                  </item>
+                  <item>
+                     <hi>Open it with your Teeth.</hi>
+                  </item>
+                  <item>
+                     <hi>Charge with powder.</hi>
+                  </item>
+                  <item>
+                     <hi>Draw forth your scourer.</hi>
+                  </item>
+                  <item>
+                     <hi>Shorten it to an inch against your breast.</hi>
+                  </item>
+                  <item>
+                     <hi>Charge with bullet.</hi>
+                  </item>
+                  <item>
+                     <hi>Ram down powder and ball.</hi>
+                  </item>
+                  <item>
+                     <hi>Withdraw your scourer.</hi>
+                  </item>
+                  <pb n="10" facs="tcp:133195:40"/>
+                  <item>
+                     <hi>Shorten it to a handful.</hi>
+                  </item>
+                  <item>
+                     <hi>Return your scourer.</hi>
+                  </item>
+                  <item>
+                     <hi>Poize your musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder your musket.</hi>
+                  </item>
+                  <item>
+                     <hi>Order your musket.</hi>
+                  </item>
+               </list>
+               <p>In the Exercise of the Musket, though these Po<g ref="char:EOLhyphen"/>stures are to be observed, yet after the Soldiers understand them, there needs only three terms of Direction, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>Make ready.</hi>
+                  </item>
+                  <item>
+                     <hi>Present.</hi>
+                  </item>
+                  <item>
+                     <hi>Give Fire.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:133195:40"/>
+               <head>To Exercise the Pike.</head>
+               <list>
+                  <item>
+                     <hi>ADvance your Pikes.</hi>
+                  </item>
+                  <item>
+                     <hi>Charge to the Front.</hi>
+                     <list>
+                        <item>
+                           <hi>To the right,</hi>
+                        </item>
+                        <item>
+                           <hi>To the right,</hi>
+                        </item>
+                        <item>
+                           <hi>To the right,</hi>
+                        </item>
+                        <item>
+                           <hi>To the right.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>To the right about.</hi>
+                  </item>
+                  <item>
+                     <hi>To the left about as you were.</hi>
+                  </item>
+                  <item>
+                     <hi>Charge to the Left.</hi>
+                     <list>
+                        <item>
+                           <hi>To the left,</hi>
+                        </item>
+                        <item>
+                           <hi>To the left,</hi>
+                        </item>
+                        <item>
+                           <hi>To the left,</hi>
+                        </item>
+                        <item>
+                           <hi>To the left.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>To the right about as you were.</hi>
+                  </item>
+                  <item>
+                     <hi>Advance your Pikes.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder your Pikes, charge to the front.</hi>
+                  </item>
+                  <pb n="12" facs="tcp:133195:41"/>
+                  <item>
+                     <hi>Shouder as you were, charge to the right.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder as you were, to the right about.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder as you were, charge to the left.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder as you were, to the left about.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder as you were.</hi>
+                  </item>
+                  <item>
+                     <hi>Port.</hi>
+                  </item>
+               </list>
+               <p>Is the same as Charge, but that you sink not the point so low.</p>
+               <p>
+                  <hi>Comport.</hi>
+               </p>
+               <p>Is by bringing the left Hand back, and stretch out the right, stepping forward with the right Leg.</p>
+               <list>
+                  <item>
+                     <hi>Charge to the front.</hi>
+                  </item>
+                  <item>
+                     <hi>Trail, facing to the right about.</hi>
+                  </item>
+                  <pb n="13" facs="tcp:133195:41"/>
+                  <item>
+                     <hi>Charge as you were.</hi>
+                  </item>
+                  <item>
+                     <hi>Advance your Pikes.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>More general Motions.</head>
+               <list>
+                  <item>
+                     <hi>ADvance your Pikes.</hi>
+                  </item>
+                  <item>
+                     <hi>Order your Pikes.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder your Pikes.</hi>
+                  </item>
+                  <item>
+                     <hi>Charge your Pikes.</hi>
+                  </item>
+                  <item>
+                     <hi>Order your Pikes.</hi>
+                  </item>
+                  <item>
+                     <hi>Trail your Pikes.</hi>
+                  </item>
+                  <item>
+                     <hi>Check your Pikes.</hi>
+                  </item>
+               </list>
+               <p>In charging, half the Ranks only must charge their Pikes, the other hindermost Ranks must port their Pikes; that is, carry them so couched over the Heads of the former Ranks, as may give them no
+<pb n="14" facs="tcp:133195:42"/>offence, either in charging or retiring, and by this way the Pikes will not be so sub<g ref="char:EOLhyphen"/>ject to be broken by the Ene<g ref="char:EOLhyphen"/>mies shot, as when they are advanced.</p>
+            </div>
+            <div type="part">
+               <head>To Exercise the Muskets and Pikes together.</head>
+               <p>
+                  <hi>SHoulders your Muskets.</hi>
+               </p>
+               <p>
+                  <hi>Muskateers make ready.</hi>
+               </p>
+               <p>At which Command, the Musketeers ought distinctly to perform every particular posture of the Musket, without further direction.</p>
+               <p>The Musketeers being ready, the Pikes are to charge as the Musketeers are faced.</p>
+               <pb n="15" facs="tcp:133195:42"/>
+               <list>
+                  <item>
+                     <hi>To the right, to the right, to the right, to the right.</hi>
+                  </item>
+                  <item>
+                     <hi>To the left about as you were.</hi>
+                  </item>
+                  <item>
+                     <hi>To the left, to the left, to the left, to the left.</hi>
+                  </item>
+                  <item>
+                     <hi>To the right about as you were.</hi>
+                  </item>
+                  <item>
+                     <hi>Advance your Pikes.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder your Muskets.</hi>
+                  </item>
+                  <item>
+                     <hi>Order your Arms.</hi>
+                  </item>
+                  <item>
+                     <hi>Pikes to your inside Order.</hi>
+                  </item>
+                  <item>
+                     <hi>Lay down your Arms.</hi>
+                  </item>
+               </list>
+               <p>Which posture is to be performed with their left Legs, stooping all together; their Arms being on the ground, they must rise toge<g ref="char:EOLhyphen"/>ther, every one observing his right hand Man.</p>
+               <list>
+                  <item>
+                     <hi>Quit your Arms.</hi>
+                  </item>
+                  <item>
+                     <hi>Face all to the right about.</hi>
+                  </item>
+                  <pb n="16" facs="tcp:133195:43"/>
+                  <item>
+                     <hi>March to your Arms.</hi>
+                  </item>
+                  <item>
+                     <hi>Handle your Arms.</hi>
+                  </item>
+               </list>
+               <p>Which must be done by stepping forward with their left Leg, and stooping till the word of Command.</p>
+               <list>
+                  <item>
+                     <hi>Order your Arms.</hi>
+                  </item>
+                  <item>
+                     <hi>Pikes, to your outside Order.</hi>
+                  </item>
+                  <item>
+                     <hi>Poize your muskets.</hi>
+                  </item>
+                  <item>
+                     <hi>Advance your pikes.</hi>
+                  </item>
+                  <item>
+                     <hi>Shoulder your muskets.</hi>
+                  </item>
+                  <item>
+                     <hi>Muskets, march.</hi>
+                  </item>
+               </list>
+               <p>The Musketeers must ob<g ref="char:EOLhyphen"/>serve in all their Motions to turn to the right hand, and to carry the Muzle of their Muskets high, to avoid doing mischief.</p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:133195:43"/>
+               <head>Of Marching.</head>
+               <p>THe Ranks ought to be twelve Foot di<g ref="char:EOLhyphen"/>stance, and the Files clo<g ref="char:EOLhyphen"/>sed shoulder to shoulder, having liberty to use their arms.</p>
+               <p>The Soldiers must always begin to march with their right foot.</p>
+               <p>The Captains are to march with their Pikes shouldred.</p>
+               <p>The Lieutenants with Par<g ref="char:EOLhyphen"/>tizans.</p>
+               <p>The Ensigns with their Pikes comported.</p>
+               <p>The Serjeants have no place, but are to be moving
+<pb n="18" facs="tcp:133195:44"/>to keep the Ranks and Files in due distance.</p>
+            </div>
+            <div type="part">
+               <head>To Draw up a Body of Men, and place the Officers at a General Muster.</head>
+               <p>THe Eldest Company
+<note n="(g)" place="margin">
+                     <hi>It is requisite each Com<g ref="char:EOLhyphen"/>pany should be divided into Files,</hi> 10 <hi>in a File. And there ought to be a Ser<g ref="char:EOLhyphen"/>jant at the right and left of e<g ref="char:EOLhyphen"/>very Rank and the rest at the Rear, at</hi> 12 <hi>foot distance, the Drums are to be equaly divided, and placed in the same line with the first Rank of Soldiers.</hi>
+                  </note> is to draw up on the right hand, the second on the left, the third next the first, and the fourth next the se<g ref="char:EOLhyphen"/>cond, <hi>&amp;c.</hi> as followeth.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">
+                           <hi>st.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>th.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>th.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>th.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>th.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>th.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>th.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>th.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1.</cell>
+                        <cell>3.</cell>
+                        <cell>5.</cell>
+                        <cell>7.</cell>
+                        <cell>9.</cell>
+                        <cell>10.</cell>
+                        <cell>8.</cell>
+                        <cell>6.</cell>
+                        <cell>4.</cell>
+                        <cell>2.</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="19" facs="tcp:133195:44"/>
+               <p>A File is to be distingui<g ref="char:EOLhyphen"/>shed by,
+<list>
+                     <item>
+                        <hi>A Leader.</hi>
+                     </item>
+                     <item>3 <hi>Between.</hi>
+                     </item>
+                     <item>
+                        <hi>A Bringer up.</hi>
+                     </item>
+                     <item>3 <hi>Between.</hi>
+                     </item>
+                     <item>2 <hi>Midle-men.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>But for ordinary Exercise,
+<note n="(h)" place="margin">This will be of use to pre<g ref="char:EOLhyphen"/>pare and Exercise the Soldi<g ref="char:EOLhyphen"/>ers.</note> they may be reduced to 5 in a File, and then the two middle Men will be Bringers up, and have a kind of charge over the 3 between.</p>
+               <p>But when the Compa<g ref="char:EOLhyphen"/>nies come together, they should be Exercised 10 in depth, in case of Execu<g ref="char:EOLhyphen"/>tion.</p>
+               <pb n="20" facs="tcp:133195:45"/>
+               <list>
+                  <head>General Words of Com<g ref="char:EOLhyphen"/>mand.</head>
+                  <item>
+                     <hi>MUsketeers, to the right and left outwards.</hi>
+                  </item>
+                  <item>
+                     <hi>Pikes, to the right and left in<g ref="char:EOLhyphen"/>wards.</hi>
+                  </item>
+                  <item>
+                     <hi>Interchange Ground.</hi>
+                  </item>
+                  <item>
+                     <hi>March.</hi>
+                  </item>
+               </list>
+               <p>When a Regiment hath thus drawn up, the Officers are to be placed as followeth:</p>
+               <p>
+                  <hi>One half of the Lieutenants are to stand At the Front of the right Wing of shot.</hi>
+               </p>
+               <pb n="21" facs="tcp:133195:45"/>
+               <p>
+                  <hi>The other half of the Lieutenants At the Front of the left Wing.</hi>
+               </p>
+               <p>
+                  <hi>The Ensigns are to stand At the Front of the Pikes, at the same time as the Lieutenants.</hi>
+               </p>
+               <p>
+                  <hi>The Captains are likewise to be equally divided, and to stand four Foot before the Lieute<g ref="char:EOLhyphen"/>nants.</hi>
+               </p>
+               <p>None must stand before the Ensigns but the chief Commander, who is to be ten Foot before the Pikes.</p>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:133195:46"/>
+               <head>When the Regiment marches in a Body.</head>
+               <p>The Lieutenants are to be removed from the Front to the Rear.</p>
+               <p>The rest of the Officers keep their Post.</p>
+               <p>The Serjeants that were in the Rear, are to be moving to order the Ranks and Files.</p>
+            </div>
+            <div type="part">
+               <head>When the Regiment marches in Division.</head>
+               <p>The one half of the Cap<g ref="char:EOLhyphen"/>tains are to march at the Front of the first Division
+<pb n="23" facs="tcp:133195:46"/>of Shot, and the rest in the Rear of the last Division of Shot;
+<note n="(h)" place="margin">The Of<g ref="char:EOLhyphen"/>ficers in marching are to keep the same distance from the Body as when they were drawn up.</note> and one half of the Lieutenants are to be in the Rear of the first Divisi<g ref="char:EOLhyphen"/>on of Shot, and the rest at the Front of the last.</p>
+               <p>The Ensigns are to march at the head of the Pikes.</p>
+            </div>
+            <div type="part">
+               <head>Of Salutes.</head>
+               <p>THe Officer that Com<g ref="char:EOLhyphen"/>mands ought first to Salute.</p>
+               <p>And the Captains that march next in a Rank must not begin to Salute, till the said Officer hath done.</p>
+               <p>The Lieutenants must
+<pb n="24" facs="tcp:133195:47"/>likewise observe the same or<g ref="char:EOLhyphen"/>der and motion, and so must the Ensigns, but they must move their Colours all the same way, to avoid tangling.</p>
+            </div>
+            <div type="part">
+               <head>If the King, or Queen, or Ge<g ref="char:EOLhyphen"/>neral passeth by,</head>
+               <list>
+                  <item>The Pikes must be Advan<g ref="char:EOLhyphen"/>ced.</item>
+                  <item>The Drums must Beat.
+<note n="*" place="margin">In ma<g ref="char:EOLhyphen"/>king a Guard.</note>
+                  </item>
+                  <item>The Muskets be Shouldred.</item>
+                  <item>The Pikes must be Ordered.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>When the King or General comes in the Rear,</head>
+               <p>The Colours or Officers, are not to march through the
+<pb n="25" facs="tcp:133195:47"/>Ranks, but keep still at the Front.</p>
+            </div>
+            <div type="part">
+               <head>If the King passeth by when the whole Army is drawn up in the Field,</head>
+               <p>Every Battalion is to
+<note n="(k)" place="margin">The Posture of more Guards.</note> charge their Pikes, and rest their Muskets.</p>
+            </div>
+            <div type="part">
+               <head>Of Wheeling, when a Body marches in Division.</head>
+               <p>IF to the Right, the right hand Man is to keep his ground, and only turn upon his Heel, whilst at the same
+<pb n="26" facs="tcp:133195:48"/>time the left hand Men move about quick, till the Officer cries, <hi>Stand.</hi>
+               </p>
+               <p>The second Rank is not to begin till they have taken the Ground of the first.</p>
+               <p>And so every Rank is to take the Ground of the Rank next before.</p>
+            </div>
+            <div type="part">
+               <head>To Exercise a Troop, or Regiment of Horse.</head>
+               <p>LEt them charge their Carbines and Pistols.</p>
+               <p>And when the Corporals or Officers have seen that they are all ready,</p>
+               <pb n="27" facs="tcp:133195:48"/>
+               <p>The Officer commands si<g ref="char:EOLhyphen"/>lence, and directs.</p>
+               <list>
+                  <item>
+                     <hi>Lay your Hand upon your Swords.</hi>
+                  </item>
+                  <item>
+                     <hi>Draw your Swords.</hi>
+                  </item>
+                  <item>
+                     <hi>Put your Swords in your Bridle Hand.</hi>
+                  </item>
+                  <item>
+                     <hi>Lay your Hands upon your Pistols.</hi>
+                  </item>
+                  <item>
+                     <hi>Draw your Pistols.</hi>
+                  </item>
+                  <item>
+                     <hi>Cock your Pistols.</hi>
+                  </item>
+                  <item>
+                     <hi>Hold them up.</hi>
+                  </item>
+                  <item>
+                     <hi>Fire.</hi>
+                  </item>
+                  <item>
+                     <hi>Return your Pistols.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The manner of Firing in Advan<g ref="char:EOLhyphen"/>cing towards an Enemy.</head>
+               <p>THey should give Fire by Ranks.</p>
+               <pb n="28" facs="tcp:133195:49"/>
+               <p>Two Ranks make ready
+<note n="(l)" place="margin">A Ser<g ref="char:EOLhyphen"/>jeant or (when the Body is great) some Of<g ref="char:EOLhyphen"/>ficer must stand to whom the Muske<g ref="char:EOLhyphen"/>teers are to come up before they pre<g ref="char:EOLhyphen"/>sent and give fire.</note> together, and advance 10 Paces before the Body.</p>
+               <p>And whilst the first gives Fire, the second must keep their Muskets ready, and Pans guarded.</p>
+               <p>And as soon as the first fall away, the second Pre<g ref="char:EOLhyphen"/>sent, give fire, and fall off.</p>
+               <p>In like manner when the two first Ranks move from their places in the Front, the two next Ranks must un<g ref="char:EOLhyphen"/>shoulder and make ready, and do in all points as the former, and so by two Ranks at a time, through the whole Di<g ref="char:EOLhyphen"/>vision.</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:133195:49"/>
+               <head>To Fire when retiring from an Enemy.</head>
+               <p>AS the Troop marcheth, the hindermost Rank (keeping still with the Troop) maketh Ready, and when ready, they turn all to<g ref="char:EOLhyphen"/>gether to the right hand, and Fire, marching presently a round pace to the Front, and there place themselves just before; and in like manner should every Rank do, if the Enemy should stand or advance.</p>
+            </div>
+            <div type="part">
+               <head>To Fire by the Flank.</head>
+               <p>THE outermost File next the Enemy must
+<pb n="30" facs="tcp:133195:50"/>make ready, keeping still all along with the Body,
+<note n="(m)" place="margin">a Ser<g ref="char:EOLhyphen"/>jeant or some Offi<g ref="char:EOLhyphen"/>cer must stand at the Head of the first File, to lead each File, till the whole Wing be com<g ref="char:EOLhyphen"/>pleat, and joyned in form equal with the Pikes.</note> till they are ready, and then turn to the right or left, as they see the Enemy, and must fire all together; when they have discharged they must not move from their ground, but charge a<g ref="char:EOLhyphen"/>gain; and so each File are to observe like time and motion.</p>
+               <p>When the whole Troop or Wing of Musketeers make ready together, the first Rank, without advancing, gives fire in the place they stand, and then as speedily as may be (but orderly) fall off, all the Ranks doing in like manner.</p>
+            </div>
+            <div type="part">
+               <pb n="31" facs="tcp:133195:50"/>
+               <head>How to perfect the Trained Bands for Service, and not exceed the Duty appointed by the Acts.</head>
+               <p>IN regard the times by the Acts for Exercise of the whole Companies are but few, it would much conduce to the fitting them for Ser<g ref="char:EOLhyphen"/>vice, to appoint the Exercise of— at a time (as they live convenient) under the command of a Serjeant or Corporal,
+<note place="margin">Any num<g ref="char:EOLhyphen"/>ber not less then Ten.</note> for the space of two hours, upon Holy days.</p>
+               <p>But till the Soldiers per<g ref="char:EOLhyphen"/>fectly understand their Du<g ref="char:EOLhyphen"/>ties, Postures, Motions, and
+<pb n="32" facs="tcp:133195:51"/>Exercise of their Arms, there needs not be any expence of Powder.</p>
+               <p>And after they do under<g ref="char:EOLhyphen"/>stand their Postures, <hi>&amp;c.</hi> they may Exercise with false Fires, as only a little Powder in the Pan, till such times as the whole Compa<g ref="char:EOLhyphen"/>ny meet together.</p>
+               <p>And if at such private Exercises there were some small Prizes provided, to be shot for at Marks, it would make the Soldiers more rea<g ref="char:EOLhyphen"/>dy at firing, yet with less charge, and would prevent wasting their Money and Time at Nine-pins and idle Games.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133195:51"/>
+            <pb facs="tcp:133195:52"/>
+            <pb facs="tcp:133195:52"/>
+         </div>
+      </body>
+   </text>
+</TEI>
